@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola Mundo! 👩‍💻 
 
-<!--
-**laurarguezf/laurarguezf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Ingeniera Industrial** convertida en entusiasta del **desarrollo web**. Después de años diseñando y optimizando procesos en el mundo de la **fabricación**, me encontré con algo inesperado: el **código**. Y lo que comenzó como una curiosidad, rápidamente se convirtió en mi nueva pasión.
 
-Here are some ideas to get you started:
+## 🚀 Mi viaje:
+- De las líneas de producción a las líneas de código.
+- De optimizar procesos industriales a crear experiencias web dinámicas.
+- De resolver problemas mecánicos a enfrentar desafíos en **front-end** y **full-stack**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías que me tienen atrapada:
+- **Front-end:** JavaScript, HTML, CSS, React
+- **Back-end:** Node.js, Express
+- **Otros:** Git, APIs, bases de datos
+
+## 💡 Qué estoy haciendo ahora:
+- Ampliando mis conocimientos, construyendo proyectos, y siempre en búsqueda de **nuevos retos**.
+- Mi objetivo es combinar mi mentalidad de ingeniera con mi amor por el desarrollo web para crear soluciones eficientes y elegantes.
+
+## 🌱 Filosofía:
+Soy una persona que nunca se conforma. Amo los **desafíos** y la **innovación**, y estoy convencida de que siempre hay una mejor forma de hacer las cosas.
+
+---
+
+_"Los grandes cambios comienzan con pequeños pasos... y unas cuantas líneas de código."_
+
+---
+
+## 📫 ¿Hablamos?
+[Correo](mailto:laurarguezfdez@gmail.com) | [LinkedIn](https://www.linkedin.com/in/laura-rodriguez-fernandez-)
