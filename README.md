@@ -19,11 +19,5 @@ Soy **Ingeniera Industrial** convertida en entusiasta del **desarrollo web**. De
 ## 🌱 Filosofía:
 Soy una persona que nunca se conforma. Amo los **desafíos** y la **innovación**, y estoy convencida de que siempre hay una mejor forma de hacer las cosas.
 
----
-
-_"Los grandes cambios comienzan con pequeños pasos... y unas cuantas líneas de código."_
-
----
-
 ## 📫 ¿Hablamos?
 [Correo](mailto:laurarguezfdez@gmail.com) | [LinkedIn](https://www.linkedin.com/in/laura-rodriguez-fernandez-)
