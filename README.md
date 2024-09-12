@@ -7,7 +7,7 @@ Soy **Ingeniera Industrial** convertida en entusiasta del **desarrollo web**. De
 - De optimizar procesos industriales a crear experiencias web dinámicas.
 - De resolver problemas mecánicos a enfrentar desafíos y construir aplicaciones web completas y atractivas.
 
-💻 **Tech**: 🟨 JavaScript, 🖥️ HTML, 🎨 CSS, ⚛️ React, 🟩 Node.js, 🚂 Express, 🐙 Git, 🔗 APIs.
+💻 **Tech**: 🟨JavaScript, 🌐HTML, 🎨CSS, ⚛️React, 🟩Node.js, 🗃️MySQL. 🚂Express, 🐙Git, 🔗APIs.
 
 💡 **Actualmente**: Ampliando mis conocimientos, construyendo proyectos, y siempre en búsqueda de **nuevos retos**.
 
